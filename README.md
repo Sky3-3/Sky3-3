@@ -3,31 +3,68 @@
 
 ¡Hola! 👋 Bienvenidos a mi espacio central de proyectos. Soy estudiante de la  Tecnicatura en IA y Machine Learning en la UPATecO 🏫 y utilizo este perfil como un índice dinámico para organizar, documentar y mostrar la evolución de mis trabajos técnicos en programación, ingeniería y ciencia de datos. 📈
 ---
+# 📊 Portafolio - Maria del Cielo Robledo
+
+¡Hola! 👋 Estudiante universitaria enfocada en tecnología, gestión de sistemas y ciberseguridad. Uso este espacio como índice rápido para mis proyectos de programación y ciencia de datos. 🚀
+
+---
+
 ## 🎯 Proyectos de Python y Datos
 
-### 🐍 Lógica Básica y Estructuras Nativas
-* 📑 **python-condicionales-seguro-medico**: Uso de estructuras `if`/`else` y funciones anidadas para perfiles de riesgo.
-* 📦 **python-estructuras-listas-zip**: Agrupación y emparejamiento de datos paralelos con la función `zip()`.
-* ✂️ **python-slicing-ordenamiento-listas**: Reordenamiento *in-place* y segmentación de arreglos con *Slicing* avanzado.
-* 🔁 **python-bucles-list-comprehension**: Bucles `while`/`for` y optimización de código con *List Comprehension*.
-* 🔐 **python-caesar-vigenere-ciphers**: Cifrados clásicos, aritmética modular `% 26` y ataques por fuerza bruta.
+<details>
+<summary><b>🐍 Lógica Básica y Estructuras Nativas (Clic para desplegar)</b></summary>
 
-### 🧹 Ingeniería y Preparación de Datos
-* 🧹 **python-data-cleaning-strings**: Pipeline de limpieza (*Data Cleaning*) con métodos `.split()` y `.strip()`.
-* 📁 **python-file-parsing-security**: Automatización de lectura/escritura de archivos en formatos `CSV`, `TXT` y `JSON`.
-* 📐 **python-linear-regression-algorithm**: Algoritmo de regresión lineal desde cero optimizado mediante *Grid Search*.
-* 🌿 **pandas-inventory-data-analysis**: Valuación e ingeniería de atributos usando funciones `lambda` en Pandas.
-* 🛒 **pandas-conversion-funnel-analysis**: Análisis de embudo de comercio electrónico combinando tablas con *Left Joins*.
-* 🧪 **pandas-ab-testing-shoefly**: Pruebas A/B, cálculo de tasas de clic (CTR) y reestructuración con tablas pivote.
+* 📑 **python-condicionales-seguro-medico**
+  * *Descripción:* Uso de estructuras `if`/`else` y funciones anidadas para evaluar perfiles de riesgo en salud.
+* 📦 **python-estructuras-listas-zip**
+  * *Descripción:* Agrupación, manipulación de colecciones mutables y emparejamiento de datos paralelos con la función `zip()`.
+* ✂️ **python-slicing-ordenamiento-listas**
+  * *Descripción:* Reordenamiento *in-place* y segmentación avanzada de arreglos mediante técnicas de *Slicing*.
+* 🔁 **python-bucles-list-comprehension**
+  * *Descripción:* Control de flujos iterativos eficientes con bucles `while`/`for` y optimización con *List Comprehension*.
+* 🔐 **python-caesar-vigenere-ciphers**
+  * *Descripción:* Cifrados clásicos, rotación secuencial de caracteres con aritmética modular `% 26` y ataques por fuerza bruta.
+</details>
 
-### 📉 Análisis Estadístico y Visualización
-* 🧠 **pandas-jeopardy-data-analysis**: Filtros de texto con expresiones regulares (Regex) y agregación con `.unstack()`.
-* 🏥 **pandas-eda-diabetes-cleaning**: Análisis Exploratorio de Datos (EDA) e imputación de nulos con NumPy (`np.nan`).
-* 🎓 **pandas-data-visualization-uci**: Métricas de dispersión univariada, diagramas de caja (*Boxplots*) e histogramas.
-* 🍋 **matplotlib-sublime-limes-charts**: Creación de tableros de control visual basados en subtramas (`subplots`).
-* ✈️ **pandas-airline-data-analysis**: Análisis multivariante controlando el *overplotting* con submuestreo y variables jitter.
-* 🗺️ **pandas-us-census-data-cleaning**: Lectura por lotes con `glob.glob` e imputación deductiva en celdas `.iat[]`.
-* 🏀 **pandas-nba-statistical-trends**: Análisis inferencial, correlación de Pearson y pruebas de hipótesis de **Chi-cuadrado**.
-* 🏢 **pandas-housing-central-tendency**: Diagnóstico de asimetría positiva en datos de vivienda de Nueva York.
-* 🎲 **scipy-poisson-probability-sim**: Modelado de variables discretas y límites de control con la distribución de Poisson.
+<details>
+<summary><b>🧹 Ingeniería y Preparación de Datos (Clic para desplegar)</b></summary>
+
+* 🧹 **python-data-cleaning-strings**
+  * *Descripción:* Pipeline de limpieza (*Data Cleaning*) encargado de normalizar bloques de texto plano mediante `.split()` y `.strip()`.
+* 📁 **python-file-parsing-security**
+  * *Descripción:* Automatización de procesos de lectura y escritura de sistemas de archivos en formatos `CSV`, `TXT` y `JSON`.
+* 📐 **python-linear-regression-algorithm**
+  * *Descripción:* Modelado matemático desde cero de funciones de pérdida absoluta y optimización paramétrica con *Grid Search*.
+* 🌿 **pandas-inventory-data-analysis**
+  * *Descripción:* Análisis descriptivo corporativo y valuación financiera de inventarios usando expresiones vectoriales `lambda`.
+* 🛒 **pandas-conversion-funnel-analysis**
+  * *Descripción:* Modelado de un embudo de conversión transaccional en e-commerce combinando tablas mediante uniones *Left Joins*.
+* 🧪 **pandas-ab-testing-shoefly**
+  * *Descripción:* Evaluación experimental de campañas de marketing, cálculo de CTR y reestructuración con tablas pivote.
+</details>
+
+<details>
+<summary><b>📉 Análisis Estadístico y Visualización (Clic para desplegar)</b></summary>
+
+* 🧠 **pandas-jeopardy-data-analysis**
+  * *Descripción:* Filtrado analítico por tokens de palabras mediante expresiones regulares (Regex) y agregaciones con `.unstack()`.
+* 🏥 **pandas-eda-diabetes-cleaning**
+  * *Descripción:* Análisis Exploratorio de Datos (EDA) clínico, tratamiento de ceros incoherentes e imputación con NumPy (`np.nan`).
+* 🎓 **pandas-data-visualization-uci**
+  * *Descripción:* Resumen univariado de rendimiento académico exportando diagramas de cajas (*Boxplots*) e histogramas con Seaborn.
+* 🍋 **matplotlib-sublime-limes-charts**
+  * *Descripción:* Configuración y diseño de tableros de control visual (*Dashboards*) de series temporales usando subtramas (`subplots`).
+* ✈️ **pandas-airline-data-analysis**
+  * *Descripción:* Exploración multivariante controlando la sobregraficación (*overplotting*) mediante submuestreo, opacidad y variables jitter.
+* 🗺️ **pandas-us-census-data-cleaning**
+  * *Descripción:* Ingesta por lotes con la librería `glob`, transformaciones demográficas e indexación atómica en celdas `.iat[]`.
+* 🏀 **pandas-nba-statistical-trends**
+  * *Descripción:* Análisis inferencial deportivo calculando covarianza, correlación de Pearson y pruebas de hipótesis de **Chi-cuadrado**.
+* 🏢 **pandas-housing-central-tendency**
+  * *Descripción:* Diagnóstico comparativo de asimetría y sesgo positivo en variables de precios de viviendas de Nueva York.
+* 🎲 **scipy-poisson-probability-sim**
+  * *Descripción:* Simulación estocástica industrial calculando funciones de masa (`pmf`), acumuladas (`cdf`) e inversas (`ppf`) de Poisson.
+</details>
+
+---
 
