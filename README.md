@@ -3,11 +3,6 @@
 
 ¡Hola! 👋 Bienvenidos a mi espacio central de proyectos. Soy estudiante de la  Tecnicatura en IA y Machine Learning en la UPATecO 🏫 y utilizo este perfil como un índice dinámico para organizar, documentar y mostrar la evolución de mis trabajos técnicos en programación, ingeniería y ciencia de datos. 📈
 ---
-# 📊 Portafolio - Maria del Cielo Robledo
-
-¡Hola! 👋 Estudiante universitaria enfocada en tecnología, gestión de sistemas y ciberseguridad. Uso este espacio como índice rápido para mis proyectos de programación y ciencia de datos. 🚀
-
----
 
 ## 🎯 Proyectos de Python y Datos
 
