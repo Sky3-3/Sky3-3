@@ -118,8 +118,10 @@ A continuación, se presentan mis desarrollos clasificados por tecnologías. Pue
 
 ## 🌟 Proyectos Destacados / Featured Projects
 
-Aquí puedes acceder directamente a mis desarrollos de ingeniería y análisis más avanzados:
+Aquí puedes acceder directamente a mis desarrollos de ingeniería de software, análisis estadístico y gestión de datos más avanzados:
 
 * 🎮 **[Pascal] Motor de Sopa de Letras:** [Ir al repositorio](./pascal-sopa-de-letras-game) — *Matrices 18x18, lógica de juego y algoritmos de aleatoriedad sin repetición.*
-* 🌳 **[Tableau] Tree & Money in NYC:** [Ir al repositorio](./tableau-nyc-trees-and-money) — *Modelo geoestadístico interactivo que cruza sustentabilidad urbana con ingresos económicos.*
 * 🧮 **[Pascal] Analizador Matricial Matemático:** [Ir al repositorio](./pascal-analizador-matrices-matematicas) — *Cálculo dinámico de extremos, paridad y motor optimizado de verificación de números primos.*
+* 🌳 **[Tableau] Tree & Money in NYC:** [Ir al repositorio](./tableau-nyc-trees-and-money) — *Modelo geoestadístico interactivo que cruza sustentabilidad urbana con ingresos económicos de hogares.*
+* 🏀 **[Python / Pandas] Análisis de Tendencias NBA:** [Ir al repositorio](./pandas-nba-statistical-trends) — *Análisis inferencial avanzado aplicando covarianza, correlación de Pearson y pruebas de hipótesis de Chi-cuadrado.*
+* 🛒 **[Pandas / SQL] Embudo de Conversión E-Commerce:** [Ir al repositorio](./pandas-conversion-funnel-analysis) — *Modelado relacional y optimización de flujos transaccionales combinando múltiples fuentes mediante uniones de tipos Left Joins.*
