@@ -126,24 +126,3 @@ Aquí puedes acceder directamente a mis desarrollos de ingeniería de software, 
 * 🏀 **[Python / Pandas] Análisis de Tendencias NBA:** [Ir al repositorio](https://github.com/Sky3-3/pandas-nba-statistical-trends) — *Análisis inferencial avanzado aplicando covarianza, correlación de Pearson y pruebas de hipótesis de Chi-cuadrado.*
 * 🛒 **[Pandas / SQL] Embudo de Conversión E-Commerce:** [Ir al repositorio](https://github.com/Sky3-3/pandas-conversion-funnel-analysis) — *Modelado relacional y optimización de flujos transaccionales combinando múltiples fuentes mediante uniones de tipos Left Joins.*
 
----
-
-## 🎯 Índice Completo de Repositorios
-
-Haz clic en las pestañas para desplegar las tecnologías y auditar las descripciones técnicas de cada desarrollo:
-
-<details>
-<summary><b>🐍 Automatización e Ingeniería de Datos - Python & Pandas (Clic para desplegar)</b></summary>
-<br>
-
-### 🛠️ Ingeniería, Limpieza y Preparación de Datos
-* 🌿 **pandas-inventory-data-analysis**
-  * *Descripción:* Análisis descriptivo corporativo y valuación financiera de inventarios usando expresiones vectoriales `lambda`.
-* 🛒 **pandas-conversion-funnel-analysis**
-  * *Descripción:* Modelado de un embudo de conversión transaccional en comercio electrónico combinando tablas mediante uniones *Left Joins*.
-* 🧪 **pandas-ab-testing-shoefly**
-  * *Descripción:* Evaluación experimental de campañas de marketing, cálculo de tasas de clic (CTR) y reestructuración con tablas pivote.
-* 🧹 **python-data-cleaning-strings**
-  * *Descripción:* Pipeline de limpieza (*Data Cleaning*) encargado de normalizar bloques de texto plano mediante métodos `.split()` y `.strip()`.
-* 📁 **python-file-parsing-security**
-  * *Descripción:* Automatización de procesos de lectura y escritura
