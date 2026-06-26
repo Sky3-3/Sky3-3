@@ -65,19 +65,15 @@ A continuación, se presentan mis desarrollos clasificados por tecnologías. Pue
 <details>
 <summary><b>📊 Herramientas de Business Intelligence - Tableau (Clic para desplegar)</b></summary>
 <br>
-
 * 🗺️ **tableau-analisis-educacion-argentina**
   * *Descripción:* Dashboard integral que analiza indicadores públicos de egreso, repitencia, deserción y concentración demográfica escolar por provincias mediante gráficos no cartesianos (*Packed Bubbles*).
   * *Enlace interactivo:* [Ver Tablero en Tableau Public](https://public.tableau.com/app/profile/maria.del.cielo.robledo/viz/DataArgentinaEducacion/DATOSEDUCACION)
-
 * 🌋 **tableau-volcano-eruption-evolution**
   * *Descripción:* Análisis geológico e histórico global que modela la evolución temporal de las erupciones (años 1000 a la actualidad), índices de explosividad (VEI) y sus consecuencias socioeconómicas directas.
   * *Enlace interactivo:* [Ver Tablero en Tableau Public](https://public.tableau.com/app/profile/maria.del.cielo.robledo/viz/VolcanEruptionEvolution/Dashboard1)
-
 * 🎬 **tableau-hollywood-film-scores**
   * *Descripción:* Matriz analítica de la industria del entretenimiento que evalúa y compara el rendimiento crítico en la plataforma Rotten Tomatoes según estudios de producción líderes y géneros cinematográficos.
   * *Enlace interactivo:* [Ver Tablero en Tableau Public](https://public.tableau.com/app/profile/maria.del.cielo.robledo/viz/HollywoordFilmScorebyGenre/RottenTomatesProbalityofGenreforStudiosandFilm)
-
 * 🌳 **tableau-nyc-trees-and-money**
   * *Descripción:* Modelo geoestadístico urbano que cruza los datos del censo de árboles y el estado de salud forestal con variables macroeconómicas de ingresos familiares por códigos postales en Nueva York.
   * *Enlace interactivo:* [Ver Tablero en Tableau Public](https://public.tableau.com/app/profile/maria.del.cielo.robledo/viz/CitiesDateTreeofcensus2015/Dashboard1)
@@ -86,11 +82,9 @@ A continuación, se presentan mis desarrollos clasificados por tecnologías. Pue
 <details>
 <summary><b>📈 Análisis de Datos y Modelado Financiero - Microsoft Excel (Clic para desplegar)</b></summary>
 <br>
-
 * 📊 **excel-control-presupuestario-metricas**
   * *Descripción:* Tablero de control financiero integral que aplica funciones lógicas anidadas (`SI`, `Y`, `O`), funciones de búsqueda indexada (`BUSCARV`, `INDICE` + `COINCIDIR`) y formato condicional avanzado para la auditoría de desvíos presupuestarios.
   * *Tecnologías:* Microsoft Excel / Tablas Dinámicas / Fórmulas Matriciales / Data Analytics.
-
 * 🗃️ **excel-automatización-reportes-macros**
   * *Descripción:* Desarrollo de plantillas automatizadas para la consolidación de datos por lotes y limpieza de registros mediante el uso de macros grabadas y optimización de flujos de trabajo administrativos.
   * *Tecnologías:* Excel / Macros VBA (Visual Basic for Applications) / Automatización de Procesos.
