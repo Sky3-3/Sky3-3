@@ -65,7 +65,7 @@ A continuación, se presentan mis desarrollos clasificados por tecnologías. Pue
 <details>
 <summary><b>📊 Herramientas de Business Intelligence - Tableau (Clic para desplegar)</b></summary>
 <br>
- 
+
 * 🗺️ **tableau-analisis-educacion-argentina**
   * *Descripción:* Dashboard integral que analiza indicadores públicos de egreso, repitencia, deserción y concentración demográfica escolar por provincias mediante gráficos no cartesianos (*Packed Bubbles*).
   * *Enlace interactivo:* [Ver Tablero en Tableau Public](https://public.tableau.com/app/profile/maria.del.cielo.robledo/viz/DataArgentinaEducacion/DATOSEDUCACION)
@@ -87,11 +87,11 @@ A continuación, se presentan mis desarrollos clasificados por tecnologías. Pue
 <summary><b>📈 Análisis de Datos y Modelado Financiero - Microsoft Excel (Clic para desplegar)</b></summary>
 <br>
 
- * 📊 **excel-control-presupuestario-metricas**
+* 📊 **excel-control-presupuestario-metricas**
   * *Descripción:* Tablero de control financiero integral que aplica funciones lógicas anidadas (`SI`, `Y`, `O`), funciones de búsqueda indexada (`BUSCARV`, `INDICE` + `COINCIDIR`) y formato condicional avanzado para la auditoría de desvíos presupuestarios.
   * *Tecnologías:* Microsoft Excel / Tablas Dinámicas / Fórmulas Matriciales / Data Analytics.
 
- * 🗃️ **excel-automatización-reportes-macros**
+* 🗃️ **excel-automatización-reportes-macros**
   * *Descripción:* Desarrollo de plantillas automatizadas para la consolidación de datos por lotes y limpieza de registros mediante el uso de macros grabadas y optimización de flujos de trabajo administrativos.
   * *Tecnologías:* Excel / Macros VBA (Visual Basic for Applications) / Automatización de Procesos.
 </details>
