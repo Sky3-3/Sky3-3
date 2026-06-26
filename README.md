@@ -115,3 +115,11 @@ A continuación, se presentan mis desarrollos clasificados por tecnologías. Pue
 * 💻 **pascal-conteo-puntuacion-texto**
   * *Descripción:* Aplicación de escritorio orientada a eventos (`TForm`) que implementa un motor de análisis sintáctico de texto para el conteo cuantitativo de signos de puntuación (puntos y comas) cargados dinámicamente en un `TMemo`.
 </details>
+
+## 🌟 Proyectos Destacados / Featured Projects
+
+Aquí puedes acceder directamente a mis desarrollos de ingeniería y análisis más avanzados:
+
+* 🎮 **[Pascal] Motor de Sopa de Letras:** [Ir al repositorio](./pascal-sopa-de-letras-game) — *Matrices 18x18, lógica de juego y algoritmos de aleatoriedad sin repetición.*
+* 🌳 **[Tableau] Tree & Money in NYC:** [Ir al repositorio](./tableau-nyc-trees-and-money) — *Modelo geoestadístico interactivo que cruza sustentabilidad urbana con ingresos económicos.*
+* 🧮 **[Pascal] Analizador Matricial Matemático:** [Ir al repositorio](./pascal-analizador-matrices-matematicas) — *Cálculo dinámico de extremos, paridad y motor optimizado de verificación de números primos.*
